@@ -1,5 +1,8 @@
 <a href="https://colab.research.google.com/github/DmitryKostin/yandex-praktikum-data-analyst/blob/main/12_final_ab_test_analysis/final_ab_test_analysis.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
-# Анализ процесса проведения и результатов A/B-тестирования
+
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/DmitryKostin/yandex-praktikum-data-analyst/blob/main/12_final_ab_test_analysis/final_ab_test_analysis.ipynb)
+
+# Выпускной проект. Анализ процесса проведения и результатов A/B-тестирования
 
 ## Описание проекта
 **Цель проекта** — провести оценку результатов A/B-теста. В нашем распоряжении есть датасет с действиями пользователей, техническое задание и несколько вспомогательных датасетов. Задачи проекта:
@@ -25,3 +28,13 @@
     - конверсии в просмотр карточек товаров — событие `product_page`,
     - просмотры корзины — `product_cart`,
     - покупки — `purchase`.
+
+## Использованные библиотеки
+```
+pandas 
+numpy 
+datetime 
+plotly 
+scipy 
+math
+```

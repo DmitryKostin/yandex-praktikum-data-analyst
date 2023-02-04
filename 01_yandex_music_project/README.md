@@ -1,5 +1,7 @@
 <a href="https://colab.research.google.com/github/DmitryKostin/yandex-praktikum-data-analyst/blob/main/01_yandex_music_project/yandex_music_project.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/DmitryKostin/yandex-praktikum-data-analyst/blob/main/01_yandex_music_project/yandex_music_project.ipynb)
+
 # Анализ активности пользователей Яндекс.Музыки в Москве и Санкт-Петербурге
 
 ## Описание проекта

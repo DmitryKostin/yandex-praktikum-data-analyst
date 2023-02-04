@@ -2,7 +2,7 @@
 
 [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/DmitryKostin/yandex-praktikum-data-analyst/blob/main/11_final_app_segment_project/final_app_segment_project.ipynb)
 
-# Выделение групп пользователей на основе поведения в мобильном приложении
+# Выпускной проект. Выделение групп пользователей на основе поведения в мобильном приложении
 
 ## Описание проекта
 

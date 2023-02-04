@@ -1,3 +1,6 @@
+<a href="https://colab.research.google.com/github/DmitryKostin/yandex-praktikum-data-analyst/blob/main/09_moscow_catering_project/moscow_catering_project.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/DmitryKostin/yandex-praktikum-data-analyst/blob/main/09_moscow_catering_project/moscow_catering_project.ipynb)
 
 # Анализ рынка заведений общественного питания Москвы
 

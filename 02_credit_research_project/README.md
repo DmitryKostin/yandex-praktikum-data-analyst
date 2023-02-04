@@ -1,4 +1,6 @@
 <a href="https://colab.research.google.com/github/DmitryKostin/yandex-praktikum-data-analyst/blob/main/02_credit_research_project/credit_research_project.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/DmitryKostin/yandex-praktikum-data-analyst/blob/main/02_credit_research_project/credit_research_project.ipynb)
 # Исследование надежности заемщиков
 
 ## Описание проекта

@@ -1,4 +1,7 @@
 <a href="https://colab.research.google.com/github/DmitryKostin/yandex-praktikum-data-analyst/blob/main/08_module_project_2/module_project_2.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/DmitryKostin/yandex-praktikum-data-analyst/blob/main/08_module_project_2/module_project_2.ipynb)
+
 # Исследование поведения пользователей приложения по продаже продуктов питания
 
 ## Описание проекта

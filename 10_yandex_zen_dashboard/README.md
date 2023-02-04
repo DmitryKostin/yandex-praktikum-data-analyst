@@ -12,7 +12,7 @@
 
 Презентация - https://drive.google.com/file/d/1ZrViEZtOxpYeeW2IcMhNHpEdiKhmw6_7/view?usp=sharing
 
-## Использованные библиотеки
+## Использованные инструменты и библиотеки
 ```
 Tableau 
 pandas 

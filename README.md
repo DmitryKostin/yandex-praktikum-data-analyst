@@ -8,6 +8,8 @@
 
 Все проекты прошли проверку опытными код-ревьюерами.
 
+Диплом об окончании курса на [русском](https://github.com/DmitryKostin/yandex-praktikum-data-analyst/blob/main/%D0%9A%D0%BE%D1%81%D1%82%D0%B8%D0%BD%20%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B9%20%D0%AD%D0%B4%D1%83%D0%B0%D1%80%D0%B4%D0%BE%D0%B2%D0%B8%D1%87_20232%D0%A6%D0%9F%D0%94%D0%9000055.pdf) и [английском](https://github.com/DmitryKostin/yandex-praktikum-data-analyst/blob/main/Kostin%20Dmitry_20232%D0%A6%D0%9F%D0%94%D0%9000055.pdf) языках.
+
 <p align="center"> Проекты Data Analyst </p align="center">
 
 
